@@ -117,9 +117,6 @@ source <(fzf --zsh)
 # alias
 alias k=kubectl
 alias kx=kubectx
-alias R='ssh root@10.169.128.18'
-alias macs='ssh liyu@172.17.12.241'
-
 # chezmoi
 alias dot='chezmoi'
 dotpush() {
