@@ -117,6 +117,8 @@ source <(fzf --zsh)
 # alias
 alias k=kubectl
 alias kx=kubectx
+alias relay='expect ~/.hellobike.exp'
+alias cat='bat --paging=never --style=plain'
 # chezmoi
 alias dot='chezmoi'
 dotpush() {
